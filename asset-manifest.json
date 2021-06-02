@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://shashankakula123.github.io/csb-1uq6d/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://shashankakula123.github.io/csb-1uq6d/static/js/main.fd20275d.chunk.js",
+    "main.js.map": "https://shashankakula123.github.io/csb-1uq6d/static/js/main.fd20275d.chunk.js.map",
+    "runtime-main.js": "https://shashankakula123.github.io/csb-1uq6d/static/js/runtime-main.a1d843aa.js",
+    "runtime-main.js.map": "https://shashankakula123.github.io/csb-1uq6d/static/js/runtime-main.a1d843aa.js.map",
+    "static/js/2.2350909c.chunk.js": "https://shashankakula123.github.io/csb-1uq6d/static/js/2.2350909c.chunk.js",
+    "static/js/2.2350909c.chunk.js.map": "https://shashankakula123.github.io/csb-1uq6d/static/js/2.2350909c.chunk.js.map",
+    "index.html": "https://shashankakula123.github.io/csb-1uq6d/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://shashankakula123.github.io/csb-1uq6d/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2350909c.chunk.js.LICENSE.txt": "https://shashankakula123.github.io/csb-1uq6d/static/js/2.2350909c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1d843aa.js",
+    "static/js/2.2350909c.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.fd20275d.chunk.js"
+  ]
+}
